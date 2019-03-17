@@ -9,6 +9,7 @@
     "start": "webpack"
   },
   "devDependencies": {
+    "@types/node": "^11.11.3",
     "webpack": "^4.29.6",
     "webpack-cli": "^3.3.0"
   }
